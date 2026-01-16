@@ -9,7 +9,7 @@ It’s a beginner-friendly introduction to how text data can be represented and 
 
 ---
 
-## Why You Need It
+## Relevance
 When dealing with cybersecurity, networking, or low-level programming, data is often stored or transmitted in **encoded formats** such as:
 - **ASCII** → character encoding (used to represent readable text)
 - **Hexadecimal** → binary-to-text encoding (used for compact, safe representation)
