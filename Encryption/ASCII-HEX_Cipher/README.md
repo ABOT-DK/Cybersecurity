@@ -19,7 +19,7 @@ Understanding how to convert between these formats helps you:
 - Learn how computers interpret and store text  
 - Build a foundation for cryptography and encoding systems  
 
-This tool makes those conversions **easy to experiment with**.
+This tool makes conversions **easy to experiment with**.
 
 ---
 
